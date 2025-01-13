@@ -1,0 +1,66 @@
+{
+    "Gaming": [
+        {
+            "8": "right",
+            "12": "left",
+            "16": "m",
+            "20": "enter"
+        },
+        {
+            "8": "up",
+            "12": "down",
+            "16": "ctrl",
+            "20": "p"
+        },
+        "Nothing",
+        "#ed2c2c"
+    ],
+    "Music": [
+        {
+            "8": "next",
+            "12": "previous",
+            "16": "play_pause",
+            "20": "cmd + L"
+        },
+        {
+            "8": "volume_up",
+            "12": "volume_down",
+            "16": "volume_mute",
+            "20": "cmd + R"
+        },
+        "Brat",
+        "#00FF00"
+    ],
+    "Shortcuts": [
+        {
+            "8": "cmd + space",
+            "12": "enter",
+            "16": "h",
+            "20": "e"
+        },
+        {
+            "8": "f5",
+            "12": "up",
+            "16": "down",
+            "20": "end"
+        },
+        "TurretRoad",
+        "#f5747c"
+    ],
+    "Slides": [
+        {
+            "8": "right",
+            "12": "left",
+            "16": "b",
+            "20": "esc"
+        },
+        {
+            "8": "cmd + l",
+            "12": "cmd + p",
+            "16": "cmd + shift + f",
+            "20": "cmd + ."
+        },
+        "VT323",
+        "#F3D25F"
+    ]
+}
